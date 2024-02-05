@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "133720330893",
+    "project_id": "savantgen-f574a",
+    "storage_bucket": "savantgen-f574a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133720330893:android:ae9258c64691a3d9b008c4",
+        "android_client_info": {
+          "package_name": "com.example.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133720330893-pnndq23beooj8p0igo0ji31iod8altei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.com",
+            "certificate_hash": "58430190b49b24df0e1bc1e521aa608d6fb0c488"
+          }
+        },
+        {
+          "client_id": "133720330893-6k6dqlp53jv5442h7f827odbbs0t0hkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBtTMGiIkfSiX5f1qAbN2oEdiNMQbr"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133720330893-6k6dqlp53jv5442h7f827odbbs0t0hkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
