@@ -38,17 +38,8 @@ The **Admin Panel** is a custom-developed component that facilitates the managem
 Here are video demonstrations showcasing key features of SavantGen Homework Assistant:
 
 1. [Introduction to SavantGen(Admin's View)]
-<video controls width="100%">
-  <source src="https://drive.google.com/file/d/1DbQt_czEN1QU3epGC4zjklC0RxC6JbL0/view?usp=sharing" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-2. [User's Interactions]
-<video controls width="100%">
-  <source src="https://drive.google.com/file/d/1381N115Ryp9Ivv9E9mm4LCz7Q5vZBwfA/view?usp=sharing" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/Saurabh7Goku/SavantGen-AI/assets/73352093/31550755-b367-442d-b955-ffcdd671eb69
 
 ## Functionality
 
