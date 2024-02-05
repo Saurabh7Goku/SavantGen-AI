@@ -41,6 +41,15 @@ Here are video demonstrations showcasing key features of SavantGen Homework Assi
 
 https://github.com/Saurabh7Goku/SavantGen-AI/assets/73352093/31550755-b367-442d-b955-ffcdd671eb69
 
+
+2. [User's Interaction]
+
+https://github.com/Saurabh7Goku/SavantGen-AI/assets/73352093/9d30ec9b-1ef6-4865-9537-b5e9ff674475
+
+
+------------------------------------------------------------------------------------------------
+
+
 ## Functionality
 
 *SavantGen Homework Assistant* offers a range of features to enhance the user experience:
