@@ -49,7 +49,7 @@ class GeminiAPI {
       };
 
       String url =
-          'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyAfQbcjOLvntaFuqdmq4uz360RyL8QHFqg';
+          'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=YOUR_API_KEY';
 
       var response = await http.post(
         Uri.parse(url),
